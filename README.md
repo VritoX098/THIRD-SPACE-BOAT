@@ -2,7 +2,7 @@
 
 A fully parametric CAD model of a radio-controlled boat, designed from scratch in **Onshape** as part of [Third Space](https://thirdspace.hackclub.com) — a Hack Club YSWS (You Ship, We Ship) program.
 
-![Assembly Render](Image/assembly.png)
+![Assembly Render](Images/Assembly.png)
 
 ## Overview
 
