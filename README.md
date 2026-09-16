@@ -78,14 +78,6 @@ The design is split so that each team member owns distinct sub-assemblies, makin
 - **Supports:** Yes for overhangs on hull
 - **Material:** PETG (waterproof-ish), PLA (prototype)
 
-## Goals for This Project
-
-- [x] Design hull with lofted cross-sections
-- [x] Design propeller with twisted blades
-- [x] Assemble all parts in Onshape Assembly
-- [ ] Add rudder and steering linkage
-- [ ] Waterproof electronics bay
-- [ ] Test print and float test
 
 ##  License
 
