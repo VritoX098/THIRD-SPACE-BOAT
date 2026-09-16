@@ -74,7 +74,7 @@ Design the full RC boat (hull + propeller + internals) and assemble everything i
 ###  Ship of the Week
 
 - **Repo:** [github.com/ArchanaKunwar/THIRD-SPACE-BOAT](https://github.com/ArchanaKunwar/THIRD-SPACE-BOAT)
-- **Onshape doc:** [https://cad.onshape.com/documents/000ae551268fb42816427738/w/8f4ce627ee08794ee4e8480f/e/ccb63d3aac4362792a76f92b?renderMode=0&uiState=6aaa0e4445a0f105887e1505]
+- **Onshape doc:** https://cad.onshape.com/documents/000ae551268fb42816427738/w/8f4ce627ee08794ee4e8480f/e/ccb63d3aac4362792a76f92b?renderMode=0&uiState=6aaa0f6545a0f105887e1b49
 - **Combined hours this week:** 3.23 hours
 - **Team total this week:** 3.23 / 20 hours 
 
